@@ -3,3 +3,6 @@ git remote add origin <github-repo-url>
 git add
 git commit -m "commit message"
 git push origin master
+
+BRANCH
+git branch <branch-name>
